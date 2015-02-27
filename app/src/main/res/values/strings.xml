@@ -4,5 +4,9 @@
     <string name="app_name">MyAIoT</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="Dispositivo.local"> Dispositivo local</string>
+    <string name="Dispositivo.remoto"> Dispositivo remoto</string>
+    <string name="Recurso.remoto"> recurso remoto</string>
+    <string name="Titulo_Potenciometro">Settings</string>
 
 </resources>
